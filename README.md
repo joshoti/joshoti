@@ -2,7 +2,7 @@
 
 - 📫 How to reach me:
 [![Linkedin](https://imgur.com/1D7n5XT.png)](https://www.linkedin.com/in/joshua-oti/)
-![Gmail](https://imgur.com/pqgu7kv.png)
+[![Gmail](https://imgur.com/pqgu7kv.png)](mailto:joshoti539@gmail.com)
 <!--
 **joshoti/joshoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
