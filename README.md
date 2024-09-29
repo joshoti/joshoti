@@ -1,8 +1,10 @@
-### Hi there 👋
+## Hi there, I'm Joshua 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Joshua%20Oti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-oti/)](https://www.linkedin.com/in/joshua-oti/)
 
-- 📫 How to reach me:
-[![Linkedin](https://imgur.com/1D7n5XT.png)](https://www.linkedin.com/in/joshua-oti/)
-[![Gmail](https://imgur.com/pqgu7kv.png)](mailto:joshoti539@gmail.com)
+### Welcome to my profile! 😊 
+
+I'm currently a Computer Science Masters student at University of Southern California, a software engineer, a home body and adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/joshua-oti/)!
+
 <!--
 **joshoti/joshoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
