@@ -5,7 +5,7 @@
 
 I'm currently a Computer Science Masters student at University of Southern California, a software engineer, a home body and adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/joshua-oti/)!
 
-- 🔭 I’m currently working on: **A big data analytics product and a [developer portal](https://github.com/joshoti/DevPortalX) to support it**
+- 🔭 I’m currently working on: **A big data analytics product and a [developer portal](https://github.com/joshoti/DevPortalX) to support it, an interactive analytics dashboard, and infotainment system**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
